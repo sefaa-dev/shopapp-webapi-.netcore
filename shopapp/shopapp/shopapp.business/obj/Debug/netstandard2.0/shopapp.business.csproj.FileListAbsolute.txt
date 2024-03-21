@@ -1,0 +1,27 @@
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.business.deps.json
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.business.dll
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.business.pdb
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.data.dll
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.entity.dll
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.entity.pdb
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.data.pdb
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.csprojAssemblyReference.cache
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.AssemblyInfoInputs.cache
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.AssemblyInfo.cs
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.csproj.CopyComplete
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.dll
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.pdb
+C:\Users\DELL 02\Desktop\komple-web-gelistirme-dersleri\14-Asp.Net Core\4-Katmanlı Proje\6-Repository - Generic Sınıf\shopapp\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.business.deps.json
+C:\Users\DELL 02\Desktop\komple-web-gelistirme-dersleri\14-Asp.Net Core\4-Katmanlı Proje\6-Repository - Generic Sınıf\shopapp\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.business.dll
+C:\Users\DELL 02\Desktop\komple-web-gelistirme-dersleri\14-Asp.Net Core\4-Katmanlı Proje\6-Repository - Generic Sınıf\shopapp\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.business.pdb
+C:\Users\DELL 02\Desktop\komple-web-gelistirme-dersleri\14-Asp.Net Core\4-Katmanlı Proje\6-Repository - Generic Sınıf\shopapp\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.data.dll
+C:\Users\DELL 02\Desktop\komple-web-gelistirme-dersleri\14-Asp.Net Core\4-Katmanlı Proje\6-Repository - Generic Sınıf\shopapp\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.entity.dll
+C:\Users\DELL 02\Desktop\komple-web-gelistirme-dersleri\14-Asp.Net Core\4-Katmanlı Proje\6-Repository - Generic Sınıf\shopapp\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.entity.pdb
+C:\Users\DELL 02\Desktop\komple-web-gelistirme-dersleri\14-Asp.Net Core\4-Katmanlı Proje\6-Repository - Generic Sınıf\shopapp\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.data.pdb
+C:\Users\DELL 02\Desktop\komple-web-gelistirme-dersleri\14-Asp.Net Core\4-Katmanlı Proje\6-Repository - Generic Sınıf\shopapp\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.csprojAssemblyReference.cache
+C:\Users\DELL 02\Desktop\komple-web-gelistirme-dersleri\14-Asp.Net Core\4-Katmanlı Proje\6-Repository - Generic Sınıf\shopapp\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.AssemblyInfoInputs.cache
+C:\Users\DELL 02\Desktop\komple-web-gelistirme-dersleri\14-Asp.Net Core\4-Katmanlı Proje\6-Repository - Generic Sınıf\shopapp\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.AssemblyInfo.cs
+C:\Users\DELL 02\Desktop\komple-web-gelistirme-dersleri\14-Asp.Net Core\4-Katmanlı Proje\6-Repository - Generic Sınıf\shopapp\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.csproj.CoreCompileInputs.cache
+C:\Users\DELL 02\Desktop\komple-web-gelistirme-dersleri\14-Asp.Net Core\4-Katmanlı Proje\6-Repository - Generic Sınıf\shopapp\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.csproj.CopyComplete
+C:\Users\DELL 02\Desktop\komple-web-gelistirme-dersleri\14-Asp.Net Core\4-Katmanlı Proje\6-Repository - Generic Sınıf\shopapp\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.dll
+C:\Users\DELL 02\Desktop\komple-web-gelistirme-dersleri\14-Asp.Net Core\4-Katmanlı Proje\6-Repository - Generic Sınıf\shopapp\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.pdb

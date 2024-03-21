@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KPtuNHKWae41EsljMmKs3+rs91Cxnzc9ZBE+hEpiYvV2ez3GeEH3nn8KIuMwvaCCJF62q7btSskwNKKT+GR0BA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL 02\\Desktop\\komple-web-gelistirme-dersleri\\14-Asp.Net Core\\4-Katmanlı Proje\\6-Repository - Generic Sınıf\\shopapp\\shopapp\\shopapp.entity\\shopapp.entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL 02\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\DELL 02\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

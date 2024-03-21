@@ -1,0 +1,12 @@
+C:\Users\DELL 02\Desktop\komple-web-gelistirme-dersleri\14-Asp.Net Core\4-Katmanlı Proje\6-Repository - Generic Sınıf\shopapp\shopapp\shopapp.data\bin\Debug\netstandard2.0\shopapp.data.deps.json
+C:\Users\DELL 02\Desktop\komple-web-gelistirme-dersleri\14-Asp.Net Core\4-Katmanlı Proje\6-Repository - Generic Sınıf\shopapp\shopapp\shopapp.data\bin\Debug\netstandard2.0\shopapp.data.dll
+C:\Users\DELL 02\Desktop\komple-web-gelistirme-dersleri\14-Asp.Net Core\4-Katmanlı Proje\6-Repository - Generic Sınıf\shopapp\shopapp\shopapp.data\bin\Debug\netstandard2.0\shopapp.data.pdb
+C:\Users\DELL 02\Desktop\komple-web-gelistirme-dersleri\14-Asp.Net Core\4-Katmanlı Proje\6-Repository - Generic Sınıf\shopapp\shopapp\shopapp.data\bin\Debug\netstandard2.0\shopapp.entity.dll
+C:\Users\DELL 02\Desktop\komple-web-gelistirme-dersleri\14-Asp.Net Core\4-Katmanlı Proje\6-Repository - Generic Sınıf\shopapp\shopapp\shopapp.data\bin\Debug\netstandard2.0\shopapp.entity.pdb
+C:\Users\DELL 02\Desktop\komple-web-gelistirme-dersleri\14-Asp.Net Core\4-Katmanlı Proje\6-Repository - Generic Sınıf\shopapp\shopapp\shopapp.data\obj\Debug\netstandard2.0\shopapp.data.csprojAssemblyReference.cache
+C:\Users\DELL 02\Desktop\komple-web-gelistirme-dersleri\14-Asp.Net Core\4-Katmanlı Proje\6-Repository - Generic Sınıf\shopapp\shopapp\shopapp.data\obj\Debug\netstandard2.0\shopapp.data.AssemblyInfoInputs.cache
+C:\Users\DELL 02\Desktop\komple-web-gelistirme-dersleri\14-Asp.Net Core\4-Katmanlı Proje\6-Repository - Generic Sınıf\shopapp\shopapp\shopapp.data\obj\Debug\netstandard2.0\shopapp.data.AssemblyInfo.cs
+C:\Users\DELL 02\Desktop\komple-web-gelistirme-dersleri\14-Asp.Net Core\4-Katmanlı Proje\6-Repository - Generic Sınıf\shopapp\shopapp\shopapp.data\obj\Debug\netstandard2.0\shopapp.data.csproj.CoreCompileInputs.cache
+C:\Users\DELL 02\Desktop\komple-web-gelistirme-dersleri\14-Asp.Net Core\4-Katmanlı Proje\6-Repository - Generic Sınıf\shopapp\shopapp\shopapp.data\obj\Debug\netstandard2.0\shopapp.data.csproj.CopyComplete
+C:\Users\DELL 02\Desktop\komple-web-gelistirme-dersleri\14-Asp.Net Core\4-Katmanlı Proje\6-Repository - Generic Sınıf\shopapp\shopapp\shopapp.data\obj\Debug\netstandard2.0\shopapp.data.dll
+C:\Users\DELL 02\Desktop\komple-web-gelistirme-dersleri\14-Asp.Net Core\4-Katmanlı Proje\6-Repository - Generic Sınıf\shopapp\shopapp\shopapp.data\obj\Debug\netstandard2.0\shopapp.data.pdb
